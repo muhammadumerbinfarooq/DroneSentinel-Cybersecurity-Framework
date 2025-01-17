@@ -42,7 +42,7 @@ HTML Code for (link unavailable)
 <p>To install the DroneSentinel Cybersecurity Framework, follow these steps:</p>
 
 <ol>
-<li>Clone the repository using Git: <code>git clone https://github.com/muhammadumermemon/DroneSentinel-Cybersecurity-Framework.git</code></li>
+<li>Clone the repository using Git: <code>git clone https://github.com/muhammadumerbinfarooq/DroneSentinel-Cybersecurity-Framework.git</code></li>
 <li>Navigate to the project directory: <code>cd DroneSentinel-Cybersecurity-Framework</code></li>
 <li>Compile the HCL code: <code>hcl compile drone_sentinel.hcl</code></li>
 </ol>
